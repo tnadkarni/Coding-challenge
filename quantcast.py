@@ -1,4 +1,4 @@
-#Question : Mimic spreadsheet activity
+#Question : Mimic spreadsheet activity and identify circular dependency error.
 
 from collections import defaultdict
 import re
